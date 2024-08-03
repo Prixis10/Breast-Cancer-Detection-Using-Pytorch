@@ -8,7 +8,7 @@ Breast Cancer Detection Using Pytorch is a project aimed at identifying breast c
 - **🔢 Data Preprocessing**: Implements data preprocessing techniques such as normalization and splitting the dataset into training and testing sets.
 - **🧠 Model Building**: Constructs a neural network using Pytorch to classify the data into malignant or benign.
 - **🧪 Model Training**: Trains the model using the training data and evaluates its performance on the testing data.
-- **📊 Performance Analysis**: Provides metrics such as accuracy, precision, recall, and F1 score to evaluate the model’s performance.
+- **📊 Performance Analysis**: Provides metrics such as accuracy, precision, recall, and F1 score to evaluate the model’s performance. The model achieves an accuracy of 97.8%.
 
 ## 📂 Repository Structure
 The repository is organized as follows:
@@ -46,16 +46,11 @@ Before you begin, ensure you have met the following requirements:
 ## 📊 Results
 The notebook provides detailed visualizations and performance metrics, including:
 - Confusion Matrix
-- Accuracy Score
+- Accuracy Score: 97.8%
 - Precision, Recall, and F1 Score
 
 ## 📧 Contact
 For any inquiries or further information, please contact:
 - **Pramit Roy**
   - **📧 Email**: prxmit.roy@gmail.com
-  - **💼 LinkedIn**: [Pramit Roy](https://linkedin.com/in/prxmit)
-  - **🐙 GitHub**: [Prixis10](https://github.com/Prixis10)
-
----
-
-Thank you for checking out the Breast Cancer Detection Using Pytorch project! Your contributions and feedback are greatly appreciated.
+  - **💼 LinkedIn**: [Pramit Roy](https://linkedin.com
