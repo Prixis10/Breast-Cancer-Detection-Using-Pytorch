@@ -53,4 +53,4 @@ The notebook provides detailed visualizations and performance metrics, including
 For any inquiries or further information, please contact:
 - **Pramit Roy**
   - **📧 Email**: prxmit.roy@gmail.com
-  - **💼 LinkedIn**: [Pramit Roy](https://linkedin.com
+  - **💼 LinkedIn**: [Pramit Roy](https://linkedin.com)
